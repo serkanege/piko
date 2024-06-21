@@ -104,6 +104,6 @@
     <string name="piko_pref_included">Dahil</string>
     <string name="piko_pref_excluded">Hariç</string>
     <string name="piko_pref_app_restart_rec">Uygulamanın yeniden başlatılması önerilir</string>
-    <string name="piko_pref_remove">%s kaldır</string>
+    <string name="piko_pref_remove">%s</string>
 
 </resources>
